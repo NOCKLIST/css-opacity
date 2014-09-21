@@ -1,3 +1,11 @@
+
+body {
+  background-color:#000000;
+}
+
+
+
+
 .dim img 
 {
 opacity:0.4; filter:alpha(opacity=10); } 
