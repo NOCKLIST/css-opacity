@@ -1,0 +1,8 @@
+.dim img 
+{
+opacity:0.4; filter:alpha(opacity=10); } 
+
+.dim img:hover 
+{ opacity:1.0; filter:alpha(opacity=100);
+} 
+ 
